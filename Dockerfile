@@ -1,4 +1,4 @@
-FROM ubuntu:quantal
+FROM ubuntu:14.04
 MAINTAINER luxifer "luxifer666@gmail.com"
 
 RUN apt-get update
